@@ -20,7 +20,7 @@ public class MainRestClient {
 		System.out.println("---------------video 54 minutos"
 				+ "--------------------------");
 		
-		User u = clientRest.gerUser(1);
+		User u = clientRest.gerUser(2);
 		System.out.println(u);
 	}
 
